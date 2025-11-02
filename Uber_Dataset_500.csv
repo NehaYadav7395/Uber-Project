@@ -1,0 +1,501 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
+07/02/2016 01:22,07/02/2016 04:03,Business,Chicago,Atlanta,13.7,Commute
+01/04/2016 05:27,01/04/2016 07:22,Personal,Houston,New York,8.4,Commute
+07/14/2016 14:59,07/14/2016 16:51,Personal,Los Angeles,Chicago,20.8,Meeting
+02/03/2016 04:34,02/03/2016 05:52,Business,Chicago,New York,29.0,Meal/Entertainment
+06/09/2016 16:00,06/09/2016 17:40,Business,San Francisco,Boston,22.6,Commute
+02/20/2016 17:52,02/20/2016 18:16,Business,New York,Chicago,1.6,Meal/Entertainment
+02/15/2016 01:34,02/15/2016 01:59,Business,Los Angeles,Seattle,27.9,Temporary Site
+01/12/2016 17:10,01/12/2016 17:40,Business,Atlanta,Miami,21.3,Meeting
+10/28/2016 02:39,10/28/2016 03:39,Personal,New York,Houston,26.5,Meal/Entertainment
+03/04/2016 13:03,03/04/2016 15:31,Personal,Chicago,Dallas,1.1,Customer Visit
+03/05/2016 17:28,03/05/2016 19:40,Business,Boston,Dallas,21.1,Customer Visit
+11/29/2016 23:58,11/30/2016 00:13,Business,Atlanta,Los Angeles,19.2,Temporary Site
+05/04/2016 16:25,05/04/2016 18:40,Personal,Chicago,Los Angeles,7.6,Temporary Site
+01/25/2016 03:14,01/25/2016 03:37,Personal,Dallas,Miami,15.4,Meal/Entertainment
+08/06/2016 07:44,08/06/2016 08:27,Business,Los Angeles,Houston,31.5,Errand/Supplies
+12/19/2016 00:28,12/19/2016 03:06,Personal,Miami,Chicago,41.9,Meal/Entertainment
+03/23/2016 02:44,03/23/2016 03:08,Business,Seattle,Houston,34.0,Temporary Site
+03/19/2016 16:53,03/19/2016 19:28,Business,Atlanta,Houston,26.8,Customer Visit
+12/31/2016 06:21,12/31/2016 06:55,Business,San Francisco,Houston,15.3,Commute
+03/29/2016 14:28,03/29/2016 15:13,Business,Houston,Seattle,43.9,Errand/Supplies
+11/17/2016 14:58,11/17/2016 16:47,Business,Boston,Atlanta,28.0,Errand/Supplies
+01/02/2016 22:49,01/03/2016 00:57,Personal,San Francisco,Seattle,11.8,Temporary Site
+09/04/2016 13:59,09/04/2016 15:20,Personal,New York,Los Angeles,31.8,Temporary Site
+07/06/2016 05:02,07/06/2016 05:16,Business,Atlanta,Miami,28.2,Temporary Site
+12/24/2016 03:26,12/24/2016 05:36,Personal,Houston,San Francisco,28.2,Errand/Supplies
+02/05/2016 22:11,02/05/2016 23:03,Personal,Chicago,Los Angeles,28.3,Temporary Site
+05/01/2016 09:25,05/01/2016 09:56,Business,Seattle,Chicago,5.7,Temporary Site
+09/28/2016 13:35,09/28/2016 16:15,Business,Boston,Miami,17.8,Meal/Entertainment
+10/14/2016 13:30,10/14/2016 13:43,Personal,Seattle,Chicago,34.6,Meal/Entertainment
+03/23/2016 17:14,03/23/2016 18:11,Business,New York,Chicago,34.6,Customer Visit
+08/13/2016 06:04,08/13/2016 06:14,Personal,Dallas,San Francisco,15.8,Commute
+07/16/2016 07:37,07/16/2016 09:16,Personal,Chicago,Miami,28.7,Meeting
+07/18/2016 15:13,07/18/2016 15:52,Personal,Seattle,Los Angeles,30.2,Customer Visit
+07/29/2016 07:14,07/29/2016 09:27,Personal,Chicago,Dallas,39.3,Meal/Entertainment
+08/03/2016 08:47,08/03/2016 08:59,Personal,Houston,Miami,49.6,Meeting
+09/24/2016 19:29,09/24/2016 21:09,Personal,Los Angeles,Houston,40.3,Errand/Supplies
+11/12/2016 08:06,11/12/2016 10:08,Personal,Miami,Seattle,21.9,Meal/Entertainment
+09/01/2016 12:12,09/01/2016 14:05,Business,San Francisco,Miami,22.7,Errand/Supplies
+08/07/2016 02:19,08/07/2016 02:40,Personal,Boston,Houston,45.3,Customer Visit
+07/01/2016 23:09,07/02/2016 01:16,Personal,Chicago,Houston,23.8,Meeting
+07/31/2016 05:33,07/31/2016 08:05,Business,Houston,Atlanta,11.7,Customer Visit
+11/26/2016 13:57,11/26/2016 15:30,Personal,Boston,Seattle,17.6,Meeting
+12/18/2016 16:14,12/18/2016 19:08,Personal,Chicago,Los Angeles,40.2,Meeting
+01/30/2016 06:43,01/30/2016 08:45,Business,Chicago,New York,10.6,Meal/Entertainment
+01/07/2016 15:34,01/07/2016 15:53,Personal,Seattle,New York,42.8,Commute
+02/26/2016 05:07,02/26/2016 07:45,Business,New York,Boston,41.8,Meal/Entertainment
+03/30/2016 09:12,03/30/2016 11:43,Business,Los Angeles,Dallas,38.2,Meal/Entertainment
+07/21/2016 12:02,07/21/2016 13:29,Personal,Dallas,Los Angeles,8.8,Meeting
+11/28/2016 15:49,11/28/2016 17:27,Personal,New York,Atlanta,15.0,Commute
+07/30/2016 10:56,07/30/2016 11:07,Personal,San Francisco,Miami,21.0,Meal/Entertainment
+06/05/2016 07:50,06/05/2016 09:31,Business,San Francisco,Houston,49.5,Temporary Site
+02/04/2016 16:12,02/04/2016 17:16,Business,Seattle,Miami,34.2,Commute
+05/11/2016 22:45,05/12/2016 00:42,Business,Boston,Houston,6.4,Temporary Site
+10/27/2016 13:15,10/27/2016 13:46,Business,Miami,Houston,16.4,Meeting
+02/05/2016 11:52,02/05/2016 13:25,Business,Dallas,Los Angeles,49.3,Temporary Site
+08/08/2016 03:49,08/08/2016 06:19,Business,Miami,Boston,43.4,Temporary Site
+11/25/2016 01:38,11/25/2016 02:07,Business,San Francisco,Atlanta,31.2,Errand/Supplies
+04/13/2016 00:31,04/13/2016 01:59,Business,Houston,Miami,21.7,Errand/Supplies
+04/11/2016 11:04,04/11/2016 13:05,Personal,Dallas,New York,45.0,Meeting
+07/01/2016 01:39,07/01/2016 04:13,Business,Atlanta,Los Angeles,9.9,Commute
+11/30/2016 00:38,11/30/2016 03:11,Personal,Dallas,Atlanta,27.9,Customer Visit
+07/31/2016 19:36,07/31/2016 21:52,Personal,Seattle,Chicago,16.6,Customer Visit
+09/29/2016 16:47,09/29/2016 17:52,Personal,Chicago,Miami,40.6,Errand/Supplies
+11/04/2016 16:56,11/04/2016 18:39,Personal,Atlanta,San Francisco,26.3,Commute
+02/29/2016 07:14,02/29/2016 07:55,Business,New York,San Francisco,10.8,Meeting
+11/30/2016 13:22,11/30/2016 14:35,Business,Atlanta,Miami,26.7,Temporary Site
+08/14/2016 02:43,08/14/2016 04:09,Business,Dallas,Chicago,40.4,Errand/Supplies
+06/07/2016 11:53,06/07/2016 13:54,Personal,Miami,Seattle,40.4,Meal/Entertainment
+03/08/2016 11:56,03/08/2016 13:55,Business,San Francisco,Atlanta,8.0,Meal/Entertainment
+07/20/2016 19:51,07/20/2016 22:51,Personal,Houston,New York,8.7,Errand/Supplies
+10/24/2016 00:55,10/24/2016 02:29,Business,Atlanta,Miami,27.0,Temporary Site
+05/25/2016 05:58,05/25/2016 07:52,Personal,Los Angeles,New York,33.6,Commute
+07/09/2016 11:05,07/09/2016 12:32,Business,Seattle,Chicago,42.1,Errand/Supplies
+12/12/2016 12:19,12/12/2016 15:00,Personal,Miami,New York,11.3,Meal/Entertainment
+08/01/2016 09:33,08/01/2016 12:06,Personal,Boston,Miami,48.4,Commute
+06/02/2016 20:30,06/02/2016 22:51,Business,Miami,Chicago,33.7,Meal/Entertainment
+10/02/2016 13:50,10/02/2016 15:21,Personal,San Francisco,Boston,3.1,Customer Visit
+09/21/2016 17:36,09/21/2016 19:45,Personal,Boston,Houston,10.7,Temporary Site
+12/14/2016 13:31,12/14/2016 16:17,Personal,New York,Miami,39.6,Customer Visit
+12/21/2016 22:37,12/22/2016 00:34,Personal,Houston,San Francisco,13.5,Customer Visit
+04/24/2016 15:48,04/24/2016 18:47,Personal,Houston,Miami,6.3,Customer Visit
+11/12/2016 22:03,11/12/2016 22:56,Personal,Chicago,Boston,32.9,Meeting
+06/24/2016 11:00,06/24/2016 11:11,Business,Chicago,San Francisco,42.2,Customer Visit
+10/27/2016 20:05,10/27/2016 20:50,Personal,Houston,Boston,29.9,Customer Visit
+01/25/2016 11:12,01/25/2016 13:34,Personal,New York,Dallas,23.8,Meal/Entertainment
+07/24/2016 21:41,07/24/2016 22:17,Personal,Dallas,New York,38.8,Commute
+08/06/2016 03:25,08/06/2016 05:31,Personal,Atlanta,Miami,25.0,Errand/Supplies
+02/22/2016 08:16,02/22/2016 09:07,Personal,San Francisco,Miami,48.6,Customer Visit
+10/27/2016 07:58,10/27/2016 10:55,Business,Chicago,Miami,19.9,Customer Visit
+12/14/2016 18:19,12/14/2016 20:16,Business,Miami,Atlanta,35.5,Customer Visit
+07/08/2016 16:16,07/08/2016 17:40,Business,Dallas,Seattle,3.8,Meeting
+07/29/2016 00:37,07/29/2016 01:19,Personal,San Francisco,Los Angeles,22.8,Temporary Site
+01/30/2016 20:45,01/30/2016 21:38,Business,Chicago,San Francisco,12.0,Meal/Entertainment
+07/24/2016 05:13,07/24/2016 07:40,Business,Seattle,Chicago,10.4,Temporary Site
+09/05/2016 20:28,09/05/2016 21:16,Personal,New York,Seattle,27.3,Customer Visit
+10/25/2016 11:50,10/25/2016 13:40,Business,Boston,Miami,41.7,Customer Visit
+12/23/2016 04:43,12/23/2016 05:58,Personal,Chicago,New York,29.9,Commute
+12/03/2016 09:19,12/03/2016 12:04,Personal,Dallas,Seattle,28.1,Errand/Supplies
+01/15/2016 04:24,01/15/2016 05:05,Business,Seattle,New York,21.4,Commute
+02/25/2016 09:20,02/25/2016 10:43,Business,Houston,Seattle,19.7,Errand/Supplies
+11/25/2016 10:59,11/25/2016 12:06,Personal,Miami,Los Angeles,7.1,Meal/Entertainment
+12/02/2016 19:33,12/02/2016 21:52,Business,Dallas,Chicago,10.7,Temporary Site
+10/03/2016 07:09,10/03/2016 09:26,Business,Miami,Dallas,26.1,Meal/Entertainment
+03/09/2016 19:47,03/09/2016 20:59,Business,Atlanta,Houston,19.5,Meeting
+11/13/2016 03:47,11/13/2016 05:21,Business,Dallas,Seattle,47.9,Meal/Entertainment
+07/26/2016 14:41,07/26/2016 17:18,Personal,Boston,Seattle,45.4,Temporary Site
+07/19/2016 08:53,07/19/2016 09:53,Business,Dallas,Atlanta,45.0,Meal/Entertainment
+01/26/2016 01:20,01/26/2016 02:48,Personal,Los Angeles,Miami,2.7,Temporary Site
+07/14/2016 17:39,07/14/2016 20:39,Business,San Francisco,Chicago,25.0,Temporary Site
+03/08/2016 07:38,03/08/2016 08:02,Personal,Seattle,Los Angeles,23.9,Errand/Supplies
+11/08/2016 01:16,11/08/2016 04:06,Business,Boston,Dallas,36.3,Customer Visit
+01/14/2016 08:21,01/14/2016 10:36,Personal,Boston,San Francisco,14.2,Meeting
+04/11/2016 01:35,04/11/2016 04:27,Personal,San Francisco,Chicago,2.8,Errand/Supplies
+01/17/2016 05:36,01/17/2016 05:53,Business,Seattle,San Francisco,30.4,Customer Visit
+09/26/2016 13:51,09/26/2016 14:03,Personal,Chicago,San Francisco,42.1,Meeting
+06/10/2016 09:02,06/10/2016 10:05,Personal,San Francisco,Dallas,30.3,Meeting
+01/18/2016 16:08,01/18/2016 16:46,Personal,Dallas,Houston,41.4,Temporary Site
+05/26/2016 08:37,05/26/2016 08:52,Business,Miami,Houston,5.4,Meeting
+09/19/2016 11:10,09/19/2016 12:45,Personal,Dallas,Los Angeles,43.8,Commute
+03/03/2016 08:54,03/03/2016 10:21,Personal,Miami,Los Angeles,36.3,Customer Visit
+03/30/2016 01:57,03/30/2016 04:30,Business,San Francisco,Los Angeles,48.5,Meeting
+01/29/2016 09:04,01/29/2016 09:44,Business,New York,Dallas,30.9,Errand/Supplies
+12/13/2016 03:03,12/13/2016 05:08,Personal,Seattle,San Francisco,21.1,Meeting
+01/03/2016 09:58,01/03/2016 11:56,Business,Miami,Houston,36.5,Meeting
+11/06/2016 11:26,11/06/2016 14:07,Business,New York,Boston,9.7,Commute
+04/18/2016 17:15,04/18/2016 18:10,Business,Dallas,Boston,15.8,Customer Visit
+06/17/2016 18:16,06/17/2016 19:26,Personal,Miami,Boston,16.9,Meeting
+10/16/2016 17:46,10/16/2016 20:08,Business,Seattle,Chicago,44.1,Meal/Entertainment
+06/12/2016 19:49,06/12/2016 21:40,Personal,San Francisco,Dallas,8.8,Commute
+04/17/2016 10:05,04/17/2016 10:28,Personal,Houston,Chicago,2.4,Meal/Entertainment
+12/20/2016 08:47,12/20/2016 11:42,Personal,Boston,San Francisco,28.0,Meal/Entertainment
+11/20/2016 04:57,11/20/2016 06:08,Personal,Atlanta,Dallas,20.7,Customer Visit
+11/11/2016 02:05,11/11/2016 03:41,Business,San Francisco,Dallas,9.3,Customer Visit
+09/13/2016 20:35,09/13/2016 22:53,Personal,Atlanta,Seattle,48.1,Temporary Site
+11/22/2016 22:24,11/23/2016 01:21,Personal,San Francisco,Miami,41.9,Commute
+09/13/2016 10:14,09/13/2016 10:28,Business,Boston,Los Angeles,48.3,Commute
+08/21/2016 01:33,08/21/2016 03:33,Personal,Miami,Seattle,46.6,Commute
+08/21/2016 05:07,08/21/2016 07:15,Personal,New York,Seattle,12.6,Commute
+12/22/2016 13:05,12/22/2016 14:54,Business,San Francisco,Los Angeles,14.0,Temporary Site
+11/15/2016 21:05,11/16/2016 00:00,Business,Houston,Seattle,42.7,Customer Visit
+12/08/2016 02:23,12/08/2016 03:04,Business,Dallas,Boston,22.6,Temporary Site
+07/24/2016 00:28,07/24/2016 01:05,Personal,San Francisco,Los Angeles,10.5,Meeting
+03/18/2016 11:04,03/18/2016 13:09,Business,Chicago,San Francisco,37.1,Meeting
+01/28/2016 18:10,01/28/2016 18:32,Personal,New York,Los Angeles,30.4,Temporary Site
+06/16/2016 08:34,06/16/2016 10:12,Business,Boston,Miami,42.9,Commute
+01/19/2016 05:46,01/19/2016 06:23,Personal,Chicago,New York,26.4,Meal/Entertainment
+12/14/2016 02:01,12/14/2016 04:59,Business,Houston,New York,17.3,Commute
+01/02/2016 10:37,01/02/2016 12:01,Personal,Seattle,Houston,36.5,Customer Visit
+03/28/2016 19:13,03/28/2016 20:28,Business,Los Angeles,Atlanta,25.4,Errand/Supplies
+02/26/2016 11:59,02/26/2016 13:41,Personal,New York,Los Angeles,27.2,Meal/Entertainment
+10/10/2016 05:10,10/10/2016 06:37,Business,Seattle,Los Angeles,20.2,Customer Visit
+07/05/2016 18:00,07/05/2016 18:16,Personal,Dallas,Seattle,32.1,Meeting
+08/02/2016 01:32,08/02/2016 03:50,Business,San Francisco,Houston,33.4,Errand/Supplies
+12/24/2016 22:25,12/24/2016 22:50,Personal,Miami,San Francisco,47.9,Commute
+05/27/2016 08:56,05/27/2016 11:32,Business,Houston,Boston,44.0,Meeting
+01/07/2016 00:07,01/07/2016 01:54,Personal,Seattle,Chicago,29.7,Temporary Site
+10/06/2016 13:22,10/06/2016 13:41,Business,Houston,Atlanta,27.5,Temporary Site
+09/29/2016 04:03,09/29/2016 06:33,Personal,Seattle,Atlanta,15.3,Errand/Supplies
+05/13/2016 18:42,05/13/2016 19:52,Business,Atlanta,Dallas,6.0,Temporary Site
+11/04/2016 05:00,11/04/2016 05:30,Business,Dallas,Miami,6.3,Commute
+02/16/2016 20:57,02/16/2016 23:15,Business,Los Angeles,Chicago,34.2,Temporary Site
+04/07/2016 16:24,04/07/2016 16:52,Personal,Seattle,Los Angeles,29.9,Meal/Entertainment
+08/02/2016 12:55,08/02/2016 15:42,Personal,Chicago,New York,3.7,Customer Visit
+07/19/2016 10:38,07/19/2016 10:50,Business,San Francisco,Miami,32.7,Meeting
+05/22/2016 09:49,05/22/2016 10:09,Personal,Houston,Atlanta,27.8,Commute
+02/25/2016 02:03,02/25/2016 04:30,Personal,Houston,Dallas,26.3,Meal/Entertainment
+04/14/2016 13:21,04/14/2016 15:13,Business,Dallas,Miami,25.6,Meal/Entertainment
+11/16/2016 20:23,11/16/2016 20:55,Business,Chicago,Houston,12.8,Errand/Supplies
+10/29/2016 14:12,10/29/2016 16:40,Business,New York,Boston,18.0,Meeting
+03/05/2016 03:30,03/05/2016 04:14,Personal,Chicago,Los Angeles,48.0,Errand/Supplies
+12/03/2016 10:09,12/03/2016 10:34,Personal,Boston,Dallas,37.6,Errand/Supplies
+12/05/2016 03:18,12/05/2016 04:01,Personal,Atlanta,Houston,25.5,Meal/Entertainment
+04/20/2016 10:57,04/20/2016 12:47,Personal,New York,Dallas,26.2,Meeting
+11/15/2016 09:54,11/15/2016 10:22,Personal,San Francisco,Boston,2.7,Meal/Entertainment
+12/09/2016 13:50,12/09/2016 16:36,Personal,Seattle,Atlanta,4.1,Temporary Site
+06/29/2016 07:07,06/29/2016 08:19,Business,Atlanta,Boston,11.5,Meeting
+07/03/2016 07:15,07/03/2016 07:39,Personal,Atlanta,Houston,4.4,Commute
+10/12/2016 14:22,10/12/2016 15:43,Personal,San Francisco,Miami,24.5,Meal/Entertainment
+01/02/2016 20:26,01/02/2016 21:45,Personal,Houston,Los Angeles,47.2,Meal/Entertainment
+10/10/2016 11:46,10/10/2016 12:18,Personal,Chicago,Boston,19.5,Meeting
+04/27/2016 18:58,04/27/2016 19:24,Business,Dallas,Boston,43.8,Commute
+06/29/2016 11:40,06/29/2016 12:10,Business,Los Angeles,New York,39.8,Temporary Site
+12/10/2016 06:18,12/10/2016 08:31,Personal,New York,Miami,41.9,Temporary Site
+10/23/2016 21:48,10/23/2016 23:45,Personal,Seattle,Dallas,24.9,Temporary Site
+08/13/2016 19:17,08/13/2016 20:05,Personal,San Francisco,Houston,21.9,Temporary Site
+03/01/2016 05:32,03/01/2016 06:14,Business,Chicago,Miami,35.7,Errand/Supplies
+01/07/2016 03:36,01/07/2016 04:44,Business,Los Angeles,Miami,6.6,Meal/Entertainment
+06/11/2016 07:31,06/11/2016 10:08,Business,Los Angeles,Dallas,4.4,Meal/Entertainment
+08/24/2016 20:54,08/24/2016 22:31,Personal,Seattle,New York,12.0,Errand/Supplies
+11/08/2016 18:40,11/08/2016 19:33,Personal,Atlanta,Seattle,43.9,Meeting
+05/06/2016 21:12,05/06/2016 21:51,Personal,Boston,New York,7.3,Commute
+03/10/2016 13:20,03/10/2016 13:46,Personal,Boston,Dallas,36.0,Temporary Site
+01/05/2016 21:28,01/05/2016 23:20,Personal,San Francisco,Atlanta,20.2,Meal/Entertainment
+10/13/2016 16:31,10/13/2016 19:12,Business,Houston,Seattle,20.8,Meeting
+05/07/2016 01:30,05/07/2016 02:17,Personal,Miami,Atlanta,13.7,Commute
+07/14/2016 06:51,07/14/2016 09:17,Business,Los Angeles,New York,27.5,Temporary Site
+10/19/2016 11:29,10/19/2016 13:01,Business,San Francisco,Atlanta,18.0,Customer Visit
+02/09/2016 06:58,02/09/2016 09:44,Personal,Boston,New York,23.1,Temporary Site
+04/16/2016 21:42,04/17/2016 00:42,Personal,San Francisco,Houston,15.7,Meeting
+04/05/2016 01:58,04/05/2016 04:32,Personal,Atlanta,Houston,6.6,Commute
+05/25/2016 07:44,05/25/2016 09:18,Personal,Seattle,New York,44.4,Temporary Site
+05/20/2016 00:55,05/20/2016 02:45,Personal,New York,Dallas,28.8,Customer Visit
+08/30/2016 02:44,08/30/2016 05:36,Personal,San Francisco,Houston,21.8,Customer Visit
+12/31/2016 03:41,12/31/2016 04:42,Business,Los Angeles,Boston,27.7,Errand/Supplies
+11/09/2016 09:23,11/09/2016 09:38,Personal,Los Angeles,San Francisco,3.9,Meal/Entertainment
+07/25/2016 02:18,07/25/2016 03:08,Personal,Dallas,Houston,47.7,Meal/Entertainment
+05/29/2016 11:14,05/29/2016 14:13,Business,Dallas,Chicago,17.0,Customer Visit
+08/27/2016 22:40,08/28/2016 00:57,Business,Chicago,New York,17.0,Temporary Site
+08/26/2016 02:41,08/26/2016 02:54,Personal,New York,Boston,38.5,Temporary Site
+02/04/2016 13:09,02/04/2016 14:01,Personal,Atlanta,Boston,35.3,Errand/Supplies
+02/06/2016 03:50,02/06/2016 05:55,Business,Houston,Chicago,13.5,Meal/Entertainment
+09/18/2016 12:06,09/18/2016 14:57,Personal,Miami,Los Angeles,39.6,Meeting
+01/24/2016 10:19,01/24/2016 13:09,Business,Houston,Chicago,31.8,Meeting
+01/16/2016 16:38,01/16/2016 17:06,Business,Los Angeles,Seattle,31.8,Meeting
+12/06/2016 02:07,12/06/2016 04:40,Personal,San Francisco,New York,6.8,Meeting
+10/26/2016 23:07,10/27/2016 01:32,Business,San Francisco,New York,44.2,Meeting
+03/11/2016 20:45,03/11/2016 22:46,Personal,Miami,Dallas,9.7,Meal/Entertainment
+08/10/2016 07:58,08/10/2016 10:16,Business,Seattle,Dallas,3.2,Temporary Site
+02/10/2016 13:51,02/10/2016 16:33,Business,Los Angeles,Dallas,26.2,Errand/Supplies
+06/20/2016 02:02,06/20/2016 03:09,Business,Chicago,Houston,20.3,Errand/Supplies
+06/12/2016 08:32,06/12/2016 10:37,Personal,Atlanta,Chicago,11.8,Meal/Entertainment
+01/16/2016 01:44,01/16/2016 04:19,Business,Dallas,Houston,3.5,Temporary Site
+11/15/2016 19:19,11/15/2016 21:50,Business,Boston,Houston,45.2,Customer Visit
+11/23/2016 04:29,11/23/2016 07:08,Business,Chicago,San Francisco,19.5,Meal/Entertainment
+04/12/2016 20:13,04/12/2016 21:17,Personal,Miami,Chicago,7.3,Meeting
+04/04/2016 09:22,04/04/2016 10:28,Personal,Seattle,Boston,48.5,Customer Visit
+09/05/2016 10:45,09/05/2016 11:01,Personal,New York,San Francisco,23.2,Customer Visit
+10/06/2016 02:44,10/06/2016 04:38,Business,Dallas,Chicago,34.7,Meeting
+02/21/2016 14:00,02/21/2016 14:23,Personal,Houston,Chicago,43.4,Temporary Site
+04/19/2016 09:57,04/19/2016 12:42,Personal,Boston,San Francisco,32.4,Meal/Entertainment
+09/03/2016 23:51,09/04/2016 01:33,Business,Seattle,Houston,46.3,Customer Visit
+09/11/2016 11:27,09/11/2016 13:45,Business,Los Angeles,Dallas,15.9,Meeting
+07/20/2016 09:48,07/20/2016 10:55,Personal,Chicago,Dallas,10.0,Meal/Entertainment
+09/15/2016 09:15,09/15/2016 10:22,Personal,Boston,Miami,41.1,Meal/Entertainment
+05/29/2016 21:51,05/29/2016 22:09,Business,Los Angeles,Dallas,8.2,Meal/Entertainment
+03/24/2016 12:54,03/24/2016 15:50,Personal,Chicago,Atlanta,3.6,Customer Visit
+03/12/2016 16:56,03/12/2016 19:28,Personal,San Francisco,Miami,25.8,Temporary Site
+10/10/2016 11:52,10/10/2016 12:04,Personal,Boston,Chicago,36.4,Meal/Entertainment
+04/09/2016 03:41,04/09/2016 04:12,Personal,Houston,Seattle,46.4,Meeting
+08/13/2016 08:09,08/13/2016 08:36,Business,Boston,Miami,6.9,Commute
+11/19/2016 04:03,11/19/2016 05:36,Business,Chicago,San Francisco,7.6,Temporary Site
+01/09/2016 04:40,01/09/2016 05:34,Personal,Miami,Los Angeles,18.3,Meal/Entertainment
+02/14/2016 05:43,02/14/2016 08:28,Business,Houston,Seattle,21.5,Errand/Supplies
+06/16/2016 22:06,06/17/2016 00:59,Personal,Dallas,Los Angeles,10.9,Meal/Entertainment
+07/26/2016 16:52,07/26/2016 17:20,Business,Los Angeles,Miami,6.7,Commute
+01/03/2016 04:37,01/03/2016 07:24,Personal,New York,Atlanta,16.3,Temporary Site
+05/13/2016 04:26,05/13/2016 06:27,Personal,San Francisco,Dallas,48.0,Errand/Supplies
+08/12/2016 10:13,08/12/2016 12:00,Personal,Boston,Dallas,1.2,Customer Visit
+06/22/2016 02:40,06/22/2016 03:13,Business,Atlanta,Houston,33.7,Commute
+05/01/2016 13:17,05/01/2016 13:51,Business,New York,Houston,41.7,Meal/Entertainment
+10/12/2016 01:30,10/12/2016 04:28,Business,Seattle,Houston,40.6,Meeting
+08/10/2016 22:09,08/10/2016 23:06,Personal,Atlanta,Houston,25.6,Customer Visit
+01/05/2016 03:22,01/05/2016 04:20,Personal,Dallas,Seattle,31.9,Temporary Site
+06/04/2016 00:28,06/04/2016 02:40,Personal,Miami,Los Angeles,22.6,Temporary Site
+07/16/2016 18:40,07/16/2016 20:12,Personal,Seattle,Miami,21.7,Meeting
+10/11/2016 00:48,10/11/2016 01:33,Personal,Seattle,Houston,16.7,Commute
+03/22/2016 17:56,03/22/2016 18:37,Business,New York,Atlanta,44.7,Customer Visit
+05/06/2016 14:45,05/06/2016 15:50,Personal,San Francisco,Seattle,37.0,Meal/Entertainment
+09/24/2016 04:22,09/24/2016 05:17,Business,Dallas,Seattle,21.8,Meeting
+10/18/2016 20:45,10/18/2016 22:31,Business,Miami,San Francisco,29.8,Meal/Entertainment
+07/03/2016 01:04,07/03/2016 03:24,Business,Boston,Dallas,20.6,Commute
+12/25/2016 21:36,12/26/2016 00:09,Business,Seattle,Dallas,24.1,Errand/Supplies
+11/21/2016 03:08,11/21/2016 06:07,Personal,Los Angeles,Miami,46.9,Customer Visit
+07/27/2016 00:16,07/27/2016 02:52,Personal,Houston,Chicago,29.3,Customer Visit
+05/31/2016 13:38,05/31/2016 16:06,Business,Seattle,Atlanta,9.8,Commute
+07/31/2016 00:00,07/31/2016 02:53,Business,Seattle,Houston,22.0,Meal/Entertainment
+07/26/2016 17:25,07/26/2016 19:39,Business,Miami,San Francisco,11.7,Meeting
+02/06/2016 17:35,02/06/2016 20:02,Personal,Chicago,San Francisco,6.5,Errand/Supplies
+09/19/2016 19:23,09/19/2016 21:21,Personal,Los Angeles,Houston,28.9,Temporary Site
+06/18/2016 20:10,06/18/2016 22:17,Business,Atlanta,Dallas,24.0,Meeting
+02/18/2016 13:33,02/18/2016 15:09,Business,Chicago,Dallas,30.6,Temporary Site
+07/18/2016 19:38,07/18/2016 21:06,Personal,Miami,Chicago,7.3,Errand/Supplies
+03/12/2016 11:35,03/12/2016 12:16,Personal,Seattle,Boston,35.5,Meal/Entertainment
+07/27/2016 23:29,07/28/2016 01:11,Personal,Boston,Miami,14.7,Temporary Site
+10/24/2016 14:04,10/24/2016 16:24,Business,Chicago,Seattle,24.6,Meeting
+08/24/2016 04:05,08/24/2016 06:56,Business,Seattle,Atlanta,25.3,Commute
+03/10/2016 14:12,03/10/2016 17:08,Personal,Boston,Seattle,38.6,Errand/Supplies
+01/11/2016 18:46,01/11/2016 19:34,Business,New York,Seattle,46.6,Customer Visit
+08/19/2016 09:17,08/19/2016 12:08,Business,Chicago,San Francisco,11.8,Commute
+05/09/2016 23:58,05/10/2016 00:27,Personal,Seattle,Houston,46.8,Meeting
+03/18/2016 04:45,03/18/2016 07:04,Personal,Seattle,New York,25.3,Meeting
+01/06/2016 01:01,01/06/2016 01:22,Business,Miami,Chicago,39.3,Customer Visit
+12/24/2016 00:30,12/24/2016 02:15,Personal,Houston,Miami,46.2,Meeting
+02/09/2016 14:21,02/09/2016 16:13,Personal,Los Angeles,Seattle,26.6,Meal/Entertainment
+02/10/2016 01:46,02/10/2016 03:33,Personal,Boston,Dallas,49.7,Meeting
+12/06/2016 22:08,12/06/2016 23:55,Business,Chicago,Seattle,26.8,Meal/Entertainment
+10/03/2016 09:42,10/03/2016 11:53,Personal,Los Angeles,Miami,17.9,Errand/Supplies
+12/23/2016 13:56,12/23/2016 15:48,Personal,Chicago,Boston,26.8,Meeting
+11/03/2016 03:26,11/03/2016 05:52,Personal,Seattle,New York,4.8,Meal/Entertainment
+04/20/2016 21:34,04/21/2016 00:15,Personal,Los Angeles,Boston,14.9,Temporary Site
+01/30/2016 04:10,01/30/2016 05:04,Business,Chicago,Atlanta,40.4,Errand/Supplies
+06/19/2016 14:05,06/19/2016 15:40,Business,Dallas,Seattle,41.9,Errand/Supplies
+06/07/2016 07:06,06/07/2016 09:30,Personal,Chicago,San Francisco,14.0,Temporary Site
+05/07/2016 09:19,05/07/2016 10:27,Personal,Seattle,Los Angeles,32.0,Customer Visit
+05/25/2016 13:48,05/25/2016 16:22,Personal,Atlanta,Miami,33.6,Meal/Entertainment
+03/12/2016 02:04,03/12/2016 04:13,Personal,Seattle,Boston,41.7,Customer Visit
+03/19/2016 22:23,03/20/2016 01:14,Personal,Houston,San Francisco,48.5,Temporary Site
+08/28/2016 12:43,08/28/2016 14:57,Personal,Houston,Seattle,33.4,Temporary Site
+12/06/2016 19:14,12/06/2016 22:06,Personal,Boston,Houston,37.6,Customer Visit
+02/03/2016 16:44,02/03/2016 19:11,Personal,Atlanta,Boston,9.0,Meal/Entertainment
+12/15/2016 04:50,12/15/2016 07:16,Personal,Miami,Houston,49.8,Meeting
+11/18/2016 20:31,11/18/2016 20:45,Business,Seattle,Chicago,17.2,Customer Visit
+07/24/2016 05:22,07/24/2016 07:25,Personal,Dallas,Los Angeles,28.6,Meal/Entertainment
+01/18/2016 08:18,01/18/2016 10:00,Personal,New York,Dallas,49.7,Errand/Supplies
+07/29/2016 14:57,07/29/2016 17:26,Business,Houston,Los Angeles,7.7,Temporary Site
+01/05/2016 19:53,01/05/2016 22:19,Business,Houston,Boston,28.4,Meeting
+06/09/2016 00:45,06/09/2016 01:05,Business,Chicago,New York,27.6,Commute
+03/17/2016 15:40,03/17/2016 17:21,Personal,New York,Dallas,20.8,Errand/Supplies
+01/14/2016 04:02,01/14/2016 04:46,Business,Houston,New York,45.2,Meeting
+10/04/2016 10:35,10/04/2016 10:54,Business,New York,Boston,21.7,Customer Visit
+03/30/2016 19:19,03/30/2016 20:32,Business,Houston,Atlanta,34.1,Errand/Supplies
+01/02/2016 07:42,01/02/2016 09:55,Personal,Houston,Atlanta,4.4,Meal/Entertainment
+04/03/2016 19:26,04/03/2016 20:58,Business,Atlanta,Los Angeles,3.0,Commute
+04/08/2016 05:01,04/08/2016 06:19,Personal,Los Angeles,Chicago,45.5,Commute
+09/30/2016 08:02,09/30/2016 09:16,Personal,Seattle,Boston,24.3,Errand/Supplies
+09/22/2016 08:13,09/22/2016 09:44,Business,Houston,Miami,11.8,Errand/Supplies
+09/09/2016 16:12,09/09/2016 18:39,Business,Los Angeles,Miami,23.5,Errand/Supplies
+01/04/2016 23:49,01/05/2016 01:20,Personal,San Francisco,Seattle,42.0,Commute
+05/23/2016 07:23,05/23/2016 07:34,Business,Miami,Los Angeles,48.3,Meeting
+02/23/2016 21:04,02/23/2016 22:58,Business,Dallas,Los Angeles,32.3,Errand/Supplies
+02/10/2016 02:55,02/10/2016 05:20,Personal,Miami,Boston,22.6,Temporary Site
+04/25/2016 18:19,04/25/2016 19:46,Personal,Chicago,Miami,13.7,Temporary Site
+01/23/2016 14:19,01/23/2016 16:33,Business,San Francisco,Miami,30.3,Errand/Supplies
+09/13/2016 18:02,09/13/2016 19:19,Business,Seattle,Atlanta,33.1,Meeting
+09/20/2016 18:59,09/20/2016 21:33,Business,Los Angeles,Dallas,25.0,Errand/Supplies
+05/16/2016 03:15,05/16/2016 03:45,Personal,San Francisco,Los Angeles,24.6,Meeting
+02/29/2016 17:08,02/29/2016 19:48,Personal,Miami,Boston,6.4,Meeting
+09/07/2016 09:29,09/07/2016 10:50,Personal,Dallas,Boston,36.1,Customer Visit
+01/27/2016 12:45,01/27/2016 13:48,Personal,Seattle,Miami,15.5,Commute
+11/19/2016 04:15,11/19/2016 06:57,Personal,Los Angeles,New York,1.7,Commute
+01/13/2016 03:10,01/13/2016 05:03,Personal,San Francisco,New York,39.7,Errand/Supplies
+03/28/2016 21:13,03/28/2016 22:26,Business,Seattle,San Francisco,34.1,Customer Visit
+02/26/2016 21:44,02/26/2016 23:28,Business,Dallas,Chicago,22.6,Commute
+04/02/2016 19:28,04/02/2016 20:32,Business,Miami,Dallas,9.4,Customer Visit
+08/25/2016 06:32,08/25/2016 09:08,Business,Los Angeles,Chicago,49.7,Commute
+06/07/2016 15:22,06/07/2016 16:33,Business,Los Angeles,Dallas,40.0,Commute
+03/03/2016 17:47,03/03/2016 18:27,Business,Chicago,Los Angeles,5.2,Commute
+08/13/2016 23:00,08/13/2016 23:45,Business,Los Angeles,Miami,25.3,Commute
+11/04/2016 20:51,11/04/2016 22:27,Personal,Los Angeles,Dallas,49.0,Commute
+04/24/2016 14:39,04/24/2016 15:12,Business,Seattle,Los Angeles,13.0,Temporary Site
+02/03/2016 22:13,02/04/2016 00:17,Personal,Chicago,San Francisco,9.0,Temporary Site
+02/22/2016 15:43,02/22/2016 18:16,Personal,Dallas,Atlanta,25.0,Customer Visit
+02/15/2016 18:25,02/15/2016 21:19,Personal,Los Angeles,Miami,11.2,Customer Visit
+12/23/2016 21:22,12/24/2016 00:17,Personal,Boston,Houston,22.8,Meeting
+08/07/2016 05:40,08/07/2016 07:16,Business,Atlanta,Dallas,25.6,Customer Visit
+12/02/2016 13:19,12/02/2016 14:57,Personal,Los Angeles,San Francisco,26.9,Commute
+09/21/2016 05:54,09/21/2016 08:03,Personal,Los Angeles,Houston,38.1,Customer Visit
+12/08/2016 02:38,12/08/2016 04:46,Personal,Atlanta,Chicago,47.4,Meeting
+08/09/2016 13:41,08/09/2016 15:11,Personal,Chicago,San Francisco,34.0,Meal/Entertainment
+04/15/2016 00:57,04/15/2016 03:05,Business,New York,Boston,14.6,Temporary Site
+09/23/2016 18:33,09/23/2016 20:17,Business,New York,Los Angeles,12.7,Errand/Supplies
+04/29/2016 10:25,04/29/2016 11:48,Business,Boston,Los Angeles,16.2,Customer Visit
+12/26/2016 05:02,12/26/2016 05:49,Personal,Seattle,Miami,18.0,Errand/Supplies
+08/19/2016 22:42,08/20/2016 00:15,Personal,San Francisco,Dallas,17.3,Meal/Entertainment
+10/09/2016 11:41,10/09/2016 13:16,Business,Boston,Atlanta,24.2,Customer Visit
+08/30/2016 02:26,08/30/2016 03:40,Business,Los Angeles,Atlanta,36.2,Errand/Supplies
+06/14/2016 23:21,06/15/2016 01:33,Business,Seattle,Houston,31.7,Errand/Supplies
+11/24/2016 03:52,11/24/2016 04:41,Business,Boston,San Francisco,33.6,Temporary Site
+09/03/2016 07:38,09/03/2016 09:32,Business,Houston,Boston,28.9,Commute
+06/16/2016 10:31,06/16/2016 11:12,Personal,New York,Miami,10.4,Customer Visit
+04/16/2016 20:17,04/16/2016 22:08,Business,Chicago,Seattle,48.2,Meal/Entertainment
+07/19/2016 19:15,07/19/2016 20:37,Personal,Dallas,Houston,38.6,Commute
+02/25/2016 07:33,02/25/2016 10:25,Personal,Houston,Dallas,22.6,Commute
+08/03/2016 07:09,08/03/2016 09:30,Business,Seattle,Miami,41.9,Commute
+08/02/2016 20:42,08/02/2016 22:15,Business,Seattle,Chicago,37.2,Meeting
+10/05/2016 23:06,10/06/2016 00:01,Personal,Seattle,Boston,45.9,Errand/Supplies
+11/27/2016 23:37,11/28/2016 01:09,Personal,Miami,San Francisco,33.4,Customer Visit
+03/04/2016 16:49,03/04/2016 18:54,Business,Miami,Chicago,20.1,Customer Visit
+02/23/2016 20:39,02/23/2016 22:57,Personal,Miami,Chicago,23.1,Errand/Supplies
+02/17/2016 02:45,02/17/2016 04:16,Personal,Seattle,Houston,18.6,Meal/Entertainment
+06/08/2016 11:58,06/08/2016 14:04,Personal,Atlanta,Houston,10.8,Errand/Supplies
+04/16/2016 21:09,04/16/2016 23:23,Personal,Chicago,Boston,16.9,Customer Visit
+09/22/2016 04:27,09/22/2016 06:12,Personal,New York,Chicago,10.7,Meal/Entertainment
+06/27/2016 16:40,06/27/2016 17:11,Business,New York,Atlanta,19.0,Commute
+09/28/2016 19:25,09/28/2016 21:49,Business,Boston,Atlanta,14.3,Temporary Site
+09/24/2016 22:46,09/25/2016 00:44,Business,Atlanta,Miami,28.8,Customer Visit
+10/03/2016 00:44,10/03/2016 03:14,Personal,San Francisco,Seattle,7.8,Errand/Supplies
+10/28/2016 13:54,10/28/2016 15:53,Personal,Seattle,Houston,24.4,Errand/Supplies
+06/12/2016 15:45,06/12/2016 17:53,Business,Houston,New York,11.1,Customer Visit
+02/29/2016 04:20,02/29/2016 06:29,Personal,Seattle,Atlanta,47.0,Customer Visit
+04/02/2016 00:12,04/02/2016 02:59,Business,Dallas,Atlanta,44.6,Meeting
+06/24/2016 23:56,06/25/2016 01:24,Business,Houston,Miami,4.5,Meeting
+02/24/2016 21:56,02/24/2016 23:28,Personal,Boston,New York,33.0,Meal/Entertainment
+02/02/2016 06:21,02/02/2016 07:12,Business,Los Angeles,Miami,25.0,Meeting
+09/26/2016 16:11,09/26/2016 18:13,Personal,Chicago,Los Angeles,13.9,Meeting
+09/14/2016 15:33,09/14/2016 16:16,Personal,New York,Chicago,14.2,Meeting
+02/20/2016 05:37,02/20/2016 07:19,Personal,New York,San Francisco,2.9,Errand/Supplies
+08/23/2016 06:41,08/23/2016 07:04,Business,San Francisco,Chicago,1.8,Customer Visit
+11/16/2016 01:31,11/16/2016 04:28,Business,Chicago,Seattle,9.6,Temporary Site
+01/26/2016 00:07,01/26/2016 01:56,Business,Chicago,New York,29.9,Temporary Site
+01/02/2016 07:57,01/02/2016 09:39,Personal,San Francisco,Seattle,12.7,Meal/Entertainment
+06/17/2016 10:25,06/17/2016 11:05,Personal,Houston,Boston,29.4,Customer Visit
+11/12/2016 05:21,11/12/2016 08:19,Personal,Miami,Seattle,35.5,Errand/Supplies
+04/25/2016 10:04,04/25/2016 11:51,Personal,Chicago,Houston,45.4,Errand/Supplies
+08/08/2016 21:11,08/08/2016 22:29,Personal,Boston,Seattle,48.3,Meeting
+05/25/2016 23:51,05/26/2016 02:35,Personal,Dallas,Miami,31.9,Errand/Supplies
+03/12/2016 01:20,03/12/2016 02:03,Business,Boston,Seattle,11.1,Temporary Site
+07/24/2016 06:33,07/24/2016 08:28,Business,Chicago,Miami,15.5,Customer Visit
+02/23/2016 11:36,02/23/2016 12:48,Business,Seattle,Boston,15.7,Customer Visit
+10/24/2016 11:21,10/24/2016 11:32,Business,Dallas,Chicago,34.6,Temporary Site
+06/15/2016 18:45,06/15/2016 20:00,Business,New York,Houston,25.8,Meeting
+08/17/2016 07:03,08/17/2016 09:47,Business,Boston,Los Angeles,47.8,Errand/Supplies
+11/29/2016 10:40,11/29/2016 11:48,Business,Seattle,Los Angeles,48.3,Customer Visit
+03/06/2016 23:38,03/07/2016 01:38,Personal,Los Angeles,San Francisco,27.3,Customer Visit
+12/19/2016 22:17,12/19/2016 23:54,Personal,Houston,Boston,31.1,Customer Visit
+10/22/2016 02:27,10/22/2016 03:16,Personal,Los Angeles,San Francisco,21.6,Temporary Site
+01/15/2016 12:13,01/15/2016 12:35,Personal,Chicago,Seattle,37.5,Meal/Entertainment
+07/30/2016 10:20,07/30/2016 10:53,Business,Chicago,Dallas,34.5,Customer Visit
+04/18/2016 21:49,04/18/2016 22:27,Business,Chicago,Houston,26.0,Errand/Supplies
+05/30/2016 02:59,05/30/2016 05:11,Personal,Houston,San Francisco,2.8,Temporary Site
+07/25/2016 07:37,07/25/2016 09:34,Personal,Dallas,Seattle,16.5,Customer Visit
+05/06/2016 19:37,05/06/2016 20:08,Business,Seattle,Atlanta,21.0,Meeting
+04/10/2016 19:44,04/10/2016 21:08,Personal,Boston,Seattle,1.1,Meal/Entertainment
+11/19/2016 05:23,11/19/2016 07:46,Business,Seattle,New York,10.1,Meal/Entertainment
+02/10/2016 04:49,02/10/2016 07:46,Business,New York,Atlanta,15.9,Temporary Site
+01/07/2016 23:01,01/08/2016 01:05,Personal,Dallas,Chicago,42.4,Meeting
+03/21/2016 07:16,03/21/2016 09:53,Business,Houston,Atlanta,31.3,Temporary Site
+02/22/2016 19:00,02/22/2016 20:47,Personal,Boston,Dallas,21.3,Customer Visit
+05/12/2016 13:17,05/12/2016 15:29,Personal,Miami,Seattle,7.5,Meeting
+11/06/2016 12:15,11/06/2016 13:50,Business,Los Angeles,Boston,25.8,Temporary Site
+03/16/2016 05:47,03/16/2016 06:17,Personal,Chicago,Dallas,24.0,Temporary Site
+02/07/2016 03:13,02/07/2016 04:15,Personal,Miami,Atlanta,10.1,Temporary Site
+03/21/2016 03:48,03/21/2016 04:32,Business,Seattle,Atlanta,43.2,Meeting
+04/13/2016 18:34,04/13/2016 19:21,Personal,Chicago,Seattle,25.8,Customer Visit
+05/04/2016 05:57,05/04/2016 06:23,Personal,New York,San Francisco,31.3,Temporary Site
+07/05/2016 10:12,07/05/2016 11:27,Personal,Atlanta,New York,20.0,Commute
+08/29/2016 12:41,08/29/2016 13:14,Personal,New York,Seattle,36.5,Errand/Supplies
+03/27/2016 09:56,03/27/2016 12:32,Personal,Dallas,Boston,45.6,Meal/Entertainment
+08/09/2016 12:37,08/09/2016 13:28,Personal,Los Angeles,New York,47.7,Meal/Entertainment
+02/01/2016 14:51,02/01/2016 16:12,Business,New York,Atlanta,23.3,Errand/Supplies
+11/01/2016 20:51,11/01/2016 21:18,Business,San Francisco,Boston,42.5,Meeting
+05/20/2016 05:43,05/20/2016 08:29,Business,Chicago,Dallas,2.4,Commute
+03/01/2016 07:07,03/01/2016 08:27,Business,New York,Los Angeles,35.3,Temporary Site
+10/13/2016 13:13,10/13/2016 13:29,Personal,Houston,Los Angeles,18.3,Temporary Site
+03/15/2016 03:49,03/15/2016 05:15,Personal,Houston,Seattle,29.7,Errand/Supplies
+10/08/2016 09:08,10/08/2016 11:53,Business,Boston,Seattle,4.9,Meal/Entertainment
+07/09/2016 22:10,07/10/2016 00:42,Personal,Los Angeles,San Francisco,44.4,Customer Visit
+10/11/2016 20:35,10/11/2016 22:51,Business,Los Angeles,Houston,21.3,Meeting
+09/29/2016 21:22,09/29/2016 22:00,Business,Miami,Seattle,26.6,Meal/Entertainment
+05/22/2016 16:42,05/22/2016 19:02,Business,Boston,San Francisco,46.5,Meeting
+11/08/2016 12:10,11/08/2016 12:53,Business,Boston,Miami,24.1,Customer Visit
+02/09/2016 20:53,02/09/2016 23:15,Business,Dallas,Seattle,49.4,Errand/Supplies
+09/19/2016 19:46,09/19/2016 20:35,Business,Los Angeles,Dallas,39.5,Errand/Supplies
+12/11/2016 03:29,12/11/2016 05:14,Business,New York,Dallas,22.6,Temporary Site
+01/25/2016 07:16,01/25/2016 09:52,Business,Chicago,Los Angeles,20.9,Errand/Supplies
+04/13/2016 12:58,04/13/2016 14:07,Personal,San Francisco,Dallas,11.4,Commute
+05/05/2016 05:18,05/05/2016 05:59,Business,Atlanta,Chicago,24.5,Temporary Site
+04/05/2016 00:46,04/05/2016 03:08,Business,Los Angeles,San Francisco,14.2,Meeting
+04/29/2016 19:59,04/29/2016 20:09,Business,Boston,Houston,38.4,Commute
+02/18/2016 02:42,02/18/2016 05:31,Business,Miami,Los Angeles,4.4,Temporary Site
+11/15/2016 22:20,11/16/2016 00:29,Personal,Chicago,Miami,46.4,Customer Visit
+02/15/2016 19:11,02/15/2016 21:47,Personal,Atlanta,Seattle,1.7,Meeting
+02/14/2016 03:38,02/14/2016 05:34,Personal,San Francisco,New York,21.4,Meal/Entertainment
+08/07/2016 23:20,08/08/2016 00:36,Business,Dallas,Seattle,42.9,Customer Visit
+10/09/2016 17:04,10/09/2016 18:24,Personal,Chicago,New York,9.2,Errand/Supplies
+05/10/2016 03:59,05/10/2016 05:54,Business,San Francisco,Miami,39.3,Errand/Supplies
+11/02/2016 19:41,11/02/2016 21:13,Business,Atlanta,San Francisco,3.5,Meeting
+02/08/2016 20:44,02/08/2016 21:32,Personal,Los Angeles,San Francisco,27.2,Meal/Entertainment
+03/28/2016 00:17,03/28/2016 03:07,Personal,Miami,San Francisco,50.0,Temporary Site
+03/09/2016 11:17,03/09/2016 13:03,Business,New York,Chicago,3.9,Meal/Entertainment
+12/10/2016 11:47,12/10/2016 13:37,Personal,Boston,San Francisco,49.2,Temporary Site
+06/17/2016 14:32,06/17/2016 16:42,Business,San Francisco,Houston,4.8,Commute
+05/22/2016 07:29,05/22/2016 09:41,Personal,Los Angeles,Dallas,26.6,Commute
+07/28/2016 11:04,07/28/2016 13:11,Personal,Atlanta,Miami,33.1,Commute
+02/11/2016 12:12,02/11/2016 14:16,Business,Miami,Los Angeles,4.0,Errand/Supplies
+08/09/2016 06:14,08/09/2016 08:17,Business,Miami,Houston,5.2,Errand/Supplies
+01/08/2016 06:52,01/08/2016 09:42,Personal,Los Angeles,Houston,20.4,Commute
+03/15/2016 00:49,03/15/2016 02:07,Personal,New York,Seattle,36.4,Meal/Entertainment
+07/08/2016 23:22,07/09/2016 00:50,Business,San Francisco,Houston,4.7,Meeting
+01/10/2016 10:48,01/10/2016 11:00,Personal,San Francisco,Houston,48.0,Customer Visit
+07/02/2016 14:57,07/02/2016 16:51,Business,Boston,Seattle,23.1,Commute
+09/24/2016 03:39,09/24/2016 04:21,Personal,New York,Dallas,32.6,Errand/Supplies
+04/13/2016 20:36,04/13/2016 23:25,Business,Dallas,Atlanta,34.4,Temporary Site
+03/30/2016 16:32,03/30/2016 18:57,Business,Boston,Atlanta,37.7,Meeting
+02/14/2016 19:26,02/14/2016 19:59,Business,Miami,Dallas,35.8,Commute
+04/21/2016 19:01,04/21/2016 21:06,Business,San Francisco,Dallas,11.2,Customer Visit
+12/26/2016 19:25,12/26/2016 22:14,Personal,San Francisco,Houston,20.8,Commute
+04/27/2016 01:19,04/27/2016 03:50,Personal,San Francisco,Miami,7.6,Meal/Entertainment
+05/25/2016 20:35,05/25/2016 22:35,Business,Boston,Atlanta,13.7,Errand/Supplies
+12/06/2016 15:08,12/06/2016 17:43,Business,New York,Dallas,26.6,Temporary Site
+01/30/2016 22:43,01/31/2016 00:26,Personal,Chicago,Boston,7.7,Errand/Supplies
+05/15/2016 02:38,05/15/2016 03:12,Personal,Atlanta,Dallas,37.8,Temporary Site
+12/17/2016 01:08,12/17/2016 02:26,Personal,New York,Seattle,10.4,Temporary Site
+03/06/2016 10:06,03/06/2016 12:20,Business,Los Angeles,Chicago,15.2,Customer Visit
+02/01/2016 14:35,02/01/2016 16:15,Personal,Dallas,San Francisco,45.7,Errand/Supplies
+12/28/2016 14:56,12/28/2016 16:20,Business,Miami,New York,13.8,Meeting
+03/09/2016 02:27,03/09/2016 03:30,Personal,New York,Dallas,23.0,Meal/Entertainment
+06/13/2016 02:50,06/13/2016 05:17,Personal,Miami,San Francisco,8.1,Meeting
+07/07/2016 13:23,07/07/2016 14:11,Business,Boston,Miami,30.4,Commute
+09/04/2016 02:12,09/04/2016 03:42,Business,Boston,Atlanta,23.6,Customer Visit
+09/15/2016 06:54,09/15/2016 09:06,Business,Los Angeles,Atlanta,48.3,Customer Visit
+07/03/2016 10:14,07/03/2016 11:13,Personal,Chicago,New York,28.4,Meal/Entertainment
+01/13/2016 22:29,01/13/2016 23:52,Personal,New York,Houston,29.0,Meal/Entertainment
+11/16/2016 02:57,11/16/2016 05:23,Business,Miami,Atlanta,9.1,Commute
+08/27/2016 02:52,08/27/2016 04:31,Business,Seattle,Atlanta,36.7,Meal/Entertainment
+01/16/2016 14:11,01/16/2016 15:38,Personal,New York,Chicago,12.5,Customer Visit
+01/25/2016 20:18,01/25/2016 21:25,Personal,Atlanta,Dallas,13.4,Temporary Site
+02/05/2016 01:28,02/05/2016 01:59,Business,San Francisco,New York,36.3,Meeting
+05/31/2016 22:09,06/01/2016 00:29,Personal,Dallas,Seattle,29.3,Errand/Supplies
+06/01/2016 14:25,06/01/2016 17:21,Personal,Chicago,Los Angeles,12.6,Customer Visit
